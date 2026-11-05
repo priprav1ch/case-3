@@ -1,1 +1,1 @@
-console.log("Hello from Heroku!");
+console.log("Hello from Heroku");
